@@ -10,15 +10,6 @@ Este projeto foi desenvolvido como parte do curso **Fundamentos de IA da Microso
 
 Explorar as capacidades dos serviços de Visão Computacional da Azure AI para analisar imagens e gerar insights a partir delas. A ideia foi simular um caso real de aplicação de IA, onde diferentes tipos de análises visuais são necessárias.
 
----
-
-## 📁 Estrutura do Projeto
-
-/azure-vision-projeto │ ├── inputs/ │ ├── faces/ │ │ ├── pessoas.jpg │ │ ├── família.jpg │ │ └── mulher.jpg │ ├── ocr/ │ │ ├── placa.jpg │ │ ├── simpson.jpg │ │ └── cardápio.jpg │ └── description/ │ ├── carro.jpg │ ├── igreja.jpg │ └── ponte.jpg │ ├── outputs/ │ ├── faces/ │ ├── ocr/ │ └── description/ │ └── readme.md
-
-
----
-
 ## 🧪 Ferramentas Utilizadas
 
 - [Azure Vision Studio](https://portal.vision.cognitive.azure.com/)
