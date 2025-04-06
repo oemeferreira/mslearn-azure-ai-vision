@@ -44,8 +44,6 @@ Explorar as capacidades dos serviços de Visão Computacional da Azure AI para a
 
 ## 🖼️ Prints dos Resultados
 
-> 💡 **Dica**: Use prints das telas com os resultados visuais do Vision Studio aqui.
-
 ### 🧍 Detecção de Rostos
 
 **Exemplo:**
